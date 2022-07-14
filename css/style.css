@@ -1,0 +1,23 @@
+*{
+    /* margin: 0;
+    padding: 0; */
+  }
+  img{
+    height: 30vh;
+  }
+    body{
+      background-color: #EAF6F6;
+    }
+    hr{
+
+      /* background-color: #495C83; */
+      border-style: none;
+      width: 10vw;
+      border-color:  #66BFBF;
+      border-width: 5px;
+  border-top-style: dotted;
+  height: 3px;
+    }
+    h1,h3{
+        color: #66BFBF;
+    }
